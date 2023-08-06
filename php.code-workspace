@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../php_practica"
+		},
+		{
+			"path": "../php_integracion_html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practica-js"
+	}
+}
